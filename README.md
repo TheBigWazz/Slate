@@ -18,8 +18,8 @@ Select Appearance, then select Slate in the list of Skins.
 
 Set the background color to completely Black and set the Background color opacity to 50%, click Apply. 
 
-Close the congfigure window and right click inside Yakuake, and click Edit current profile.
+Close the configure window and right click inside Yakuake, and click Edit current profile.
 
-Click Apperance on the left, make sure Breeze is selected, and click the Edit button on the right.
+Click Appearance on the left, make sure Breeze is selected, and click the Edit button on the right.
 
 Check the box that says Blur background, set the Background transparency to 50%, set the background image to the provided Black.png, click Apply.
